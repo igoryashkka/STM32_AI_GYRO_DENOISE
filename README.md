@@ -6,5 +6,5 @@
 
 |               LSTM                        |
 |:-----------------------------------------:|
-| <img src="data/images/example1.jpg" alt="Input image" height="400"/> |
+| <img src="data/images/example1.jpeg" alt="Input image" height="400"/> |
 
